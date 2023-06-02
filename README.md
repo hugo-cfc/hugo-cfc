@@ -29,8 +29,8 @@
 # PROJETOS 
   
   - Movies-app : Projeto feito com NextJS 13, Tailwind CSS, entre outras tecnologias mais atuais usando a API do MovieDB. </br>
-  [Website](https://clone-github-maikaodev.netlify.app/) </br>
-  [Repositório](https://movies-l1mymluog-hugo-cfc.vercel.app/) </br>
+  [Website](https://movies-l1mymluog-hugo-cfc.vercel.app/) </br>
+  [Repositório](https://github.com/hugo-cfc/movies-app/) </br>
   
   - GetmoreSports: Projeto feito para um teste usando NextJS em 2021, mostra a classificação dos principais camponatos do mundo. </br>
   [Website](https://getmoresports-4z3tunigw-hugo-cfc.vercel.app/) </br>
