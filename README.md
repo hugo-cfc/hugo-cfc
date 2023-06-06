@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hugocfc98@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/DEINO](https://shorturl.at/DEINO)
+- 📄 Know about my experiences [CV](https://shorturl.at/BCFI4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
