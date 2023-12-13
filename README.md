@@ -31,7 +31,7 @@
   - Teste Mercado Livre : Projeto feito com NextJS 13, Tailwind CSS, testes unitários (Jest, Testing Library). </br>
   [Repositório](https://github.com/hugo-cfc/meli-test/tree/cx-challenge-v2) </br>
   
-  - Movies-app : Projeto feito com NextJS 13, Tailwind CSS, entre outras tecnologias mais atuais usando a API do MovieDB. </br>
+  - Movies-app : Projeto em andamento, está sendo feito com NextJS 13, Tailwind CSS, entre outras tecnologias mais atuais usando a API do MovieDB. </br>
   [Website](https://movies-l1mymluog-hugo-cfc.vercel.app/) </br>
   [Repositório](https://github.com/hugo-cfc/movies-app/) </br>
   
